@@ -1,6 +1,6 @@
 import React from 'react';
 import 'public/plugins/verify-code/js/verify-code';
-import {Field} from "@mxjs/a-form";
+import {Field} from '@mxjs/a-form';
 
 class MobileVerifyCode extends React.Component {
   static defaultProps = {
