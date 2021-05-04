@@ -1,11 +1,21 @@
+/* global $ */
 import React from 'react';
 import 'public/plugins/verify-code/js/verify-code';
 import {Field} from '@mxjs/a-form';
+import PropTypes from 'prop-types';
 
 class MobileVerifyCode extends React.Component {
   static defaultProps = {
     name: 'verifyCode',
     maxLength: 6,
+  };
+
+  static propTypes = {
+    url: PropTypes.string,
+    mobile: PropTypes.string,
+    defaultMobile: PropTypes.string,
+    name: PropTypes.string,
+    maxLength: PropTypes.number,
   };
 
   componentDidMount() {
