@@ -1,8 +1,12 @@
-/* global $ */
+// TODO
+// 1. 移除 jQuery
+// 2. 表单更新
+
 import React from 'react';
-import 'public/plugins/verify-code/js/verify-code';
-import {Field} from '@mxjs/a-form';
+import './verify-code';
+import {Field} from '@mxjs/form';
 import PropTypes from 'prop-types';
+import $ from 'jquery';
 
 class MobileVerifyCode extends React.Component {
   static defaultProps = {
