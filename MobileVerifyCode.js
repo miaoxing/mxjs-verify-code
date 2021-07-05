@@ -2,13 +2,13 @@
 // 1. 移除 jQuery
 // 2. 表单更新
 
-import React from 'react';
+import { Component } from 'react';
 import './verify-code';
 import {Field} from '@mxjs/form';
 import PropTypes from 'prop-types';
 import $ from 'jquery';
 
-class MobileVerifyCode extends React.Component {
+class MobileVerifyCode extends Component {
   static defaultProps = {
     name: 'verifyCode',
     maxLength: 6,
