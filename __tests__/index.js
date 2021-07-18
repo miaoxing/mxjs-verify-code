@@ -6,7 +6,7 @@ import {MemoryRouter} from 'react-router';
 describe('test', () => {
   test('basic', () => {
     const result = render(<MemoryRouter>
-      <Form>
+      <Form initialValues={{}}>
         <MobileVerifyCode/>
       </Form>
     </MemoryRouter>);
