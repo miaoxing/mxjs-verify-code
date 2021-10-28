@@ -1,3 +1,25 @@
+# [0.2.0](https://github.com/miaoxing/mxjs-verify-code/compare/v0.1.2...v0.2.0) (2021-10-28)
+
+
+### Features
+
+* `react` 依赖移到 `peerDependencies` 中，开发依赖使用 `react` 17 ([1b44e2a](https://github.com/miaoxing/mxjs-verify-code/commit/1b44e2a3cf88bdcd763fd66ec980410405bf5abe))
+
+
+### BREAKING CHANGES
+
+* `react` 依赖移到 `peerDependencies` 中，开发依赖使用 `react` 17
+
+
+
+
+
+### Dependencies
+
+* **@mxjs/form:** upgrade from `0.2.10` to `0.3.0`
+* **miaoxing:** upgrade from `0.2.5` to `0.3.0`
+* **@miaoxing/dev:** upgrade from `7.0.1` to `8.0.0`
+
 ## [0.1.2](https://github.com/miaoxing/mxjs-verify-code/compare/v0.1.1...v0.1.2) (2021-05-12)
 
 
