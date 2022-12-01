@@ -1,6 +1,6 @@
 {
   "name": "@mxjs/verify-code",
-  "version": "0.2.12",
+  "version": "0.2.13",
   "main": "index.js",
   "license": "MIT",
   "publishConfig": {
@@ -12,8 +12,8 @@
   },
   "dependencies": {
     "prop-types": "^15.7.2",
-    "@mxjs/form": "^0.3.12",
-    "miaoxing": "^0.4.4",
+    "@mxjs/form": "^0.3.13",
+    "miaoxing": "^0.4.5",
     "jquery": "^3.6.0"
   },
   "devDependencies": {
