@@ -1,3 +1,15 @@
+## [0.2.21](https://github.com/miaoxing/mxjs-verify-code/compare/v0.2.20...v0.2.21) (2023-07-31)
+
+
+
+
+
+### Dependencies
+
+* **@mxjs/form:** upgrade from `0.3.20` to `0.3.21`
+* **miaoxing:** upgrade from `0.4.7` to `0.4.8`
+* **@miaoxing/dev:** upgrade from `8.2.1` to `8.2.2`
+
 ## [0.2.20](https://github.com/miaoxing/mxjs-verify-code/compare/v0.2.19...v0.2.20) (2023-06-30)
 
 
