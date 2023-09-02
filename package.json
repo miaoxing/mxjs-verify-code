@@ -1,6 +1,6 @@
 {
   "name": "@mxjs/verify-code",
-  "version": "0.2.21",
+  "version": "0.2.22",
   "main": "index.js",
   "license": "MIT",
   "publishConfig": {
@@ -12,12 +12,12 @@
   },
   "dependencies": {
     "prop-types": "^15.7.2",
-    "@mxjs/form": "^0.3.21",
-    "miaoxing": "^0.4.8",
+    "@mxjs/form": "^0.3.22",
+    "miaoxing": "^0.4.9",
     "jquery": "^3.6.0"
   },
   "devDependencies": {
-    "@miaoxing/dev": "^8.2.2",
+    "@miaoxing/dev": "^8.2.3",
     "@testing-library/react": "^11.2.6",
     "react-router": "^5.2.0",
     "react": "^17.0.2",
